@@ -3,7 +3,7 @@ body {
 }
 
 h1 {
-    font-size: 6em; /* 40px/16=2.5em */
+    font-size: 5em; /* 40px/16=2.5em */
     font-weight: 1000;
 }
 .row {
@@ -34,7 +34,7 @@ h1 {
   background-image: url("../images/logo.png");
   background-repeat:   no-repeat;
   background-position: center center;
-  background-size: 60% auto;
+  background-size: 50% auto;
 }
 
 .hero-text {
